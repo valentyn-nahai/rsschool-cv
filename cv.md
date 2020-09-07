@@ -1,6 +1,6 @@
 # Valentyn Nahai
-Senior Test Automation Engineer
-----------------------------
+### Senior Test Automation Engineer
+<br>
 City: Kyiv
 <br>
 Email: [nagayvalentyn@gmail.com](mailto:nagayvalentyn@gmail.com)
@@ -118,8 +118,77 @@ Oles Honchar Dnipropetrovsk National University, Bachelor of Applied mathematics
 - Selenoid
 - JSON, XML
 - Understanding RESTful, SOAP
+- Docker
 
 ## Languages
 - English - Upper-Intermediate
 - Ukrainian - Native
 - Russian - Native
+
+## Licenses & certifications
+
+- Learning Jenkins \- LinkedIn
+Issued Mar 2020
+
+- Multi Module Build Automation with Maven \- LinkedIn
+Issued Mar 2020
+
+- Working Remotely \- LinkedIn
+Issued Mar 2020
+
+- Mobile Testing with Appium \- LinkedIn
+Issued Mar 2020
+
+- Learning Docker \- LinkedIn
+Issued Mar 2020
+
+- Docker for Developers \- LinkedIn
+Issued Apr 2020
+
+- Advanced Appium \- LinkedIn
+Issued Apr 2020
+
+- Learning JUnit 5 \- LinkedIn
+Issued Apr 2020
+
+- Learning Java Enterprise Edition \- LinkedIn
+Issued May 2020
+
+- Java EE: Contexts and Dependency Injection \- LinkedIn
+Issued May 2020
+
+- Java EE 8 Essential Training \- LinkedIn
+Issued May 2020
+
+- Learning REST APIs \- LinkedIn
+Issued May 2020
+
+- Advanced Selenium: Support Classes \- LinkedIn
+Issued Jun 2020
+
+- Advanced Selenium: 3 Synchronization Strategies \- LinkedIn
+Issued Jun 2020
+
+- Advanced Selenium: Page Objects and GUI Automation \- LinkedIn
+Issued Jun 2020
+
+- Java EE 8: Web Services \- LinkedIn
+Issued Jun 2020
+
+- WebSocket Programming with Java EE \- LinkedIn
+Issued Jul 2020
+
+- Amazon EC2 Fundamentals \- LinkedIn
+Issued Jul 2020
+
+- Java EE: Servlets and JavaServer Pages (JSP) \- LinkedIn
+Issued Aug 2020
+
+- WebSocket Programming with Java EE \- LinkedIn
+Issued Jul 2020
+
+- Amazon EC2 Fundamentals \- LinkedIn
+Issued Jul 2020
+
+- Java EE: Servlets and JavaServer Pages (JSP) \- LinkedIn
+Issued Aug 2020
